@@ -1,0 +1,18 @@
+# 빌드 폴더
+/target/
+/bin/
+
+# 이클립스 설정
+/.classpath
+/.project
+/.settings/
+/*.iml
+/.idea/
+
+# 로그 및 임시 파일
+*.log
+*.class
+*.db
+*.tmp
+*.swp
+.env
